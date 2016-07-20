@@ -4,11 +4,13 @@ $(document).ready(function() {
 	$('img').fadeIn(3000);
 
 	$('img').hover(function() {
+		$(this).stop()
 		$(this).animate({
 			opacity: .4
 		}, 200);
 		$(this).next().removeClass('hide');
 	}, function() {
+		$(this).stop();
 		$(this).animate({
 			opacity: 1
 		}, 200);
