@@ -1,0 +1,125 @@
+html {
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+.container {
+	max-width: 1080px;
+}
+
+/* menu */
+.menu {
+	color: #4A4A50;
+	padding-top: 10px;
+	margin-bottom: 10px	;
+}
+
+.menu h1{
+	margin: 0;
+	padding: 0;
+}
+
+.menu ul {
+	padding: 0;
+	margin: 0;
+	margin-top: 25px;
+}
+
+.menu ul li{
+	display: inline;
+	margin-right: 10px;
+}
+
+.menu ul li a{
+	color: #4A4A50;
+}
+
+/*HEADEr*/
+.header {
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 70px;
+}
+
+.header h1 {
+	font-size: 70px;
+	margin-top: 30px;
+	color: #333333;
+}
+
+.header h1, .header h3 {
+	display:none;
+}
+
+/*main*/
+
+.main {
+	margin-bottom: 150px;
+	min-height: 100%;
+}
+
+.main .thumbnail {
+	border: 0;
+	padding: 0;
+	background: transparent;
+	text-align: center;
+	position: relative;
+}
+
+.main .thumbnail img {
+	max-height: 100%;
+	max-width: 100%;
+	z-index: 1;
+}
+
+.main a {
+	padding: 0;
+}
+
+.main span {
+	position: absolute;
+	top: 0;
+	background-color: gray;
+	z-index: 0;
+}
+
+.main .hide {
+	display: none;
+}
+
+
+
+/*footer*/
+.footer {
+	background: black;
+	padding-top: 30px;
+	padding-bottom: 10px;
+	text-align: center;
+	color: white;
+}
+
+.footer ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	margin-bottom: 50px;
+}
+
+.footer ul li {
+	display: inline;
+	margin-right: 50px;
+	padding: 0;
+}
+
+#email {
+	margin-left: 50px;
+}
+
+.footer ul li a{
+	color: white;
+
+}

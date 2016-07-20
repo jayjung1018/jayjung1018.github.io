@@ -1,0 +1,220 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jay Jung/Desktop/School/CIS/540/cis540Spring2016Project_student/code/Readme.txt",
+		"/C/Users/Jay Jung/Desktop/School/CIS/371/hw3/lc4_regfile.v",
+		"/C/Users/Jay Jung/Desktop/School/CIS/371/hw4/partner_contributions.txt",
+		"/C/Users/Jay Jung/Desktop/School/CIS/371/hw3/partner_contributions.txt",
+		"/C/Users/Jay Jung/Documents/GitHub/37-Calorie-Tracker-App/CalorieTracker/app/src/main/res/layout/activity_profile.xml",
+		"/C/Users/Jay Jung/Documents/GitHub/37-Calorie-Tracker-App/CalorieTracker/app/src/main/java/edu/upenn/cis350/calorietracker/MainActivity.java",
+		"/C/Users/Jay Jung/Desktop/School/CIS/371/changes to schematic.txt",
+		"/C/Users/Jay Jung/Desktop/School/CIS/371/hw4/lc4_superscalar.v",
+		"/C/Users/Jay Jung/Downloads/DatabaseManager_For_Android-master/helperFunction.txt",
+		"/C/Users/Jay Jung/Desktop/School/CIS/371/hw4/test_data/test_mem.asm",
+		"/C/Users/Jay Jung/Desktop/School/CIS/371/hw4/test_data/test_ld_br.asm",
+		"/C/Users/Jay Jung/Documents/GitHub/BE-521-project/make_predictions_lasso_cv.m",
+		"/C/Users/Jay Jung/Documents/GitHub/BE-521-project/generateLambdas.m",
+		"/C/Users/Jay Jung/Documents/GitHub/BE-521-project/generateFinalWeights.m",
+		"/C/Users/Jay Jung/AppData/Local/Temp/raw.txt",
+		"/C/Users/Jay Jung/Desktop/School/CIS/371/hw4/test_data/test_alu.asm",
+		"/C/Users/Jay Jung/Desktop/School/CIS/371/hw4/test_data/test_br.asm",
+		"/C/Users/Jay Jung/Desktop/School/CIS/371/hw4/lc4_alu.v",
+		"/C/Users/Jay Jung/Downloads/lc4_superscalar.v",
+		"/C/Users/Jay Jung/Desktop/School/CIS/371/hw3/test_data/test_br.asm",
+		"/C/Users/Jay Jung/Desktop/School/CIS/350/hw4/ratings.json",
+		"/C/Users/Jay Jung/Desktop/School/CIS/350/hw4/log.txt",
+		"/C/Users/Jay Jung/Desktop/School/CIS/371/hw3/changes to schematics.txt",
+		"/C/Users/Jay Jung/Documents/GitHub/37-Calorie-Tracker-App/CalorieTracker/app/src/main/java/edu/upenn/cis350/calorietracker/HistoryActivity.java",
+		"/C/Users/Jay Jung/AppData/Local/Temp/Rar$DIa0.200/lc4_pipeline.v",
+		"/C/Users/Jay Jung/Desktop/School/CIS/540/hw4/helloworld.pr",
+		"/C/Users/Jay Jung/Desktop/School/CIS/540/hw4/TrainController2.txt",
+		"/C/Users/Jay Jung/Desktop/School/CIS/540/hw4/hw4.pml",
+		"/C/Users/Jay Jung/Desktop/School/CIS/540/TrainController2.txt",
+		"/C/Users/Jay Jung/Desktop/School/CIS/371/hw2/lc4_single.v",
+		"/C/Users/Jay Jung/Desktop/School/CIS/371/hw3/test_data/test_alu.asm",
+		"/C/Users/Jay Jung/Downloads/strings.xml",
+		"/C/Users/Jay Jung/Documents/GitHub/37-Calorie-Tracker-App/CalorieTracker/.gitignore",
+		"/C/Users/Jay Jung/Documents/GitHub/37-Calorie-Tracker-App/.idea/workspace.xml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"xE",
+			"cis-502",
+			"3.53",
+			"3.537",
+			"#30",
+			"trap #30",
+			"MSG_INVALIDATE",
+			"pendingID",
+			"pending",
+			"numV",
+			"VALID",
+			"INVALID",
+			"numV",
+			"atomic",
+			"numV",
+			"stall",
+			"address",
+			"addr",
+			"address",
+			"core",
+			"inp",
+			"mon"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "BlueStacks.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,23 +1,91 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
 
-<div class="home">
+<head>
+  <title>Jay Jung</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="css/main.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+  <script type="text/javascript" src="js/mainScript.js"></script>
+</head>
 
-  <h1 class="page-heading">Posts</h1>
+<body>
+	<div class="menu">
+		<div class="container">
+			<div class="pull-right">
+				<ul>
+					<li><a href="pages/about.html">About Me</a></li>
+					<li><a href="index.html">Portfolio</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+	<div class="header">
+		<div class="container">
+			<div class="row">
+				<h1>Jay Jung</h1>
+				<h3>Software Engineer</h3>
+			</div>		
+		</div>
+	</div>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+	<div class="main">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4">
+					<div class="thumbnail">
+						<a href="#">
+							<span class="hide">text here</span>
+							<img id="spaceinvaders" src="img/spaceinvaders.PNG">
+						</a>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="thumbnail">
+						<a href="#project2"><img src="img/p2.jpg"></a>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="thumbnail">
+						<a href="#"><img src="img/p3.jpg"></a>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<div class="thumbnail">
+						<a href="#"><img src="img/p4.jpg"></a>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="thumbnail">
+						<a href="#"><img src="img/p5.jpg"></a>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="thumbnail">
+						<a href="#"><img src="img/p6.jpg"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+	<div class="footer">
+		<div class="container">
+			<ul>
+				<li id="email"><a href="mailto:younjungjung@gmail.com">Email</a></li>
+				<li><a href="https://www.facebook.com/jayjung1018">Facebook</a></li>
+				<li><a href="https://www.linkedin.com/in/jay-jung-85491452">LinkedIn</a></li>
+				<li><a href="https://github.com/jayjung1018">Github</a></li>
+			</ul>
+			<p>
+				&copy; Jay Jung 2016
+			</p>
+		</div>
+	</div>
+</body>
 
-</div>
+</html>
