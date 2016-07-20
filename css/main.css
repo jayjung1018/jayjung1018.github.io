@@ -81,10 +81,16 @@ body{
 }
 
 .main span {
+	left: 0;
+	right: 0;
+	top: 50%;
+	bottom: 50%;
 	position: absolute;
-	top: 0;
-	background-color: gray;
+	background-color: transparent;
 	z-index: 0;
+	color: black;
+	font-weight: bold;
+	font-family: 'Roboto';
 }
 
 .main .hide {

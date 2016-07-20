@@ -3,10 +3,15 @@ $(document).ready(function() {
 	$('h3').fadeIn(3000);
 	$('img').fadeIn(3000);
 
-	$("#spaceinvaders").hover(function() {
+	$('img').hover(function() {
 		$(this).animate({
 			opacity: .4
 		}, 200);
-		$('span').removeClass('hide');
+		$(this).next().removeClass('hide');
+	}, function() {
+		$(this).animate({
+			opacity: 1
+		}, 200);
+		$(this).next().addClass('hide');
 	});
 });
