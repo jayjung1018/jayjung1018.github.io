@@ -21,6 +21,7 @@ body{
 .menu h1{
 	margin: 0;
 	padding: 0;
+	display: none;
 }
 
 .menu ul {
@@ -51,7 +52,7 @@ body{
 	color: #333333;
 }
 
-.header h1, .header h3 {
+.header h3, .header h1 {
 	display:none;
 }
 
@@ -74,6 +75,7 @@ body{
 	max-height: 100%;
 	max-width: 100%;
 	z-index: 1;
+	display:none;
 }
 
 .main a {
